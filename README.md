@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Harshporwal0904/LeetCode/tree/master/0279-perfect-squares) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshporwal0904/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Harshporwal0904/LeetCode/tree/master/0279-perfect-squares) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Harshporwal0904/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Harshporwal0904/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
