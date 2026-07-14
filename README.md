@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Harshporwal0904/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Harshporwal0904/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
