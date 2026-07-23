@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Harshporwal0904/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harshporwal0904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Harshporwal0904/LeetCode/tree/master/0279-perfect-squares) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harshporwal0904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Harshporwal0904/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harshporwal0904/LeetCode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
