@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harshporwal0904/LeetCode/tree/master/0125-valid-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshporwal0904/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Harshporwal0904/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshporwal0904/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harshporwal0904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
