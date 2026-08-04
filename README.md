@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harshporwal0904/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Harshporwal0904/LeetCode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshporwal0904/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshporwal0904/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Harshporwal0904/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshporwal0904/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshporwal0904/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harshporwal0904/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshporwal0904/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshporwal0904/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
