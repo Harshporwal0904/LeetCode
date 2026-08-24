@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshporwal0904/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Harshporwal0904/LeetCode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Harshporwal0904/LeetCode/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshporwal0904/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harshporwal0904/LeetCode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Harshporwal0904/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshporwal0904/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harshporwal0904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Harshporwal0904/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshporwal0904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Harshporwal0904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
